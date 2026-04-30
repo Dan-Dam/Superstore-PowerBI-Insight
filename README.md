@@ -1,4 +1,4 @@
-![Superstore Banner](assets/banner/superstore-banner.png)
+![Superstore Banner](assets/superstore-banner.png)
 
 # 📊 Superstore Strategic Decision Intelligence System
 
