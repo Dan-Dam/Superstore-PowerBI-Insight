@@ -169,6 +169,7 @@ superstore-strategic-insights-powerbi/
 │
 ├── data/
 │   └── superstore_dataset.csv
+```
 ---
 
 ## 🚀 How to Use
