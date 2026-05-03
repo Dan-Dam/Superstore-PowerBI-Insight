@@ -108,6 +108,15 @@ Analysis of recurring seasonal patterns in sales performance across time.
 
 ---
 
+## 🌐 Live Dashboard
+
+An interactive version of the dashboard is available via Power BI Service:
+
+**View Live Dashboard:** [https://app.powerbi.com/
+](https://app.powerbi.com/links/BYUlPe977I?ctid=10594177-0aee-4266-8193-cec6fccb540f&pbi_source=linkShare)
+Note: Access may require a Power BI account and appropriate permissions.
+---
+
 ## 🔍 Key Insights & Strategic Actions
 
 - High sales do not consistently translate into profitability due to aggressive discounting  
